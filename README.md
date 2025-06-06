@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/meta-introspector/meta-meme)
+
 # introspector-llc The First AI Dao Swarm LLC 
 
 Executive Summary:
