@@ -104,3 +104,6 @@ To bolster OSS infrastructure, companies should automate processes to minimize h
 If full automation isn't feasible, require detailed, version-tracked documentation as a baseline.
 
 By curating this open source investment portfolio around these criteria, we reward companies that exemplify high-quality OSS, driving positive change in the ecosystem and yielding ethical, sustainable returns.
+
+### Source
+Originally published: https://github.com/meta-introspector/time/blob/3f6c621561e891c7052fba473cdc22e26bc8691c/2024/07/27/notes.org#L5
